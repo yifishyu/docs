@@ -78,6 +78,7 @@ Here are some plugins to add to the functionality of Flow-Launcher.
 |[CyberChef](https://github.com/gamous/Flow.Launcher.Plugin.CyberChef)                           |Send your input to the CyberChef                                                  |Gamous                                        |1.0.0  |
 |[Search MDN](https://github.com/gabrielcarloto/flow-search-mdn)                                 |Search MDN Web Docs                                                               |Gabriel Carloto                               |1.0.0  |
 |[Translate Tool](https://github.com/qjcXu/Flow.Launcher.Translation)                            |a plugin of translation                                                           |qjc                                           |0.1.0  |
+|[BaiDuTranslate](https://github.com/yifishyu/Flow.Launcher.Plugin.BaiDuTranslate)               |en ch translation tool                                                          |BinLi                                           |0.1.0  |
 
 <!--END_SECTION:plugin-->
 
